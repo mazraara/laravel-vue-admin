@@ -8,7 +8,7 @@ INSTRUCTIONS
 
 2) To setup the project
     
-        `Copy .env.example file to .env and edit database credentials`
+        Copy .env.example file to .env and edit database credentials
 	
 	`Run composer install`
 	
