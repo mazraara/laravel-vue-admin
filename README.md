@@ -27,9 +27,3 @@ INSTRUCTIONS
 	`Now application should be available under -> http://localhost:8080`
 	
 	`To login -> please use the register form`
-
-3) API endpoints
-
-	http://localhost:8080/api/v1/category
-
-	http://localhost:8080/api/v1/product
